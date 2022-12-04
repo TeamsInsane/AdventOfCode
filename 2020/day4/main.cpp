@@ -6,17 +6,17 @@
 using namespace std;
 
 vector<string> expectedFields = {"byr", "iyr", "eyr", "hgt", "hcl", "ecl", "pid"};
-void firstStar();
+void secondStar();
 int checkValue(string value);
 
 int main(){
 
-    firstStar();
+    secondStar();
 
     return 0;
 }
 
-void firstStar(){
+void secondStar(){
     ifstream data("../input.txt");
     int count = 0;
 
