@@ -1,4 +1,4 @@
-package com.github.frcsty.annotation;
+package com.github.TeamsInsane.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

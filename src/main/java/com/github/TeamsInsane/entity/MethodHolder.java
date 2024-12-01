@@ -1,4 +1,4 @@
-package com.github.frcsty.entity;
+package com.github.TeamsInsane.entity;
 
 import java.lang.reflect.Method;
 

@@ -1,8 +1,8 @@
-package com.github.frcsty;
+package com.github.TeamsInsane;
 
-import com.github.frcsty.entity.MethodHolder;
-import com.github.frcsty.interfaces.AdventDay;
-import com.github.frcsty.util.ReflectionUtil;
+import com.github.TeamsInsane.entity.MethodHolder;
+import com.github.TeamsInsane.interfaces.AdventDay;
+import com.github.TeamsInsane.util.ReflectionUtil;
 import java.util.Calendar;
 
 public class AdventOfCode {
