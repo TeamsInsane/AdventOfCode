@@ -5,7 +5,6 @@ import com.github.TeamsInsane.interfaces.AdventDay;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
 
 public class HistorianHysteria implements AdventDay {
     private List<Integer> leftSideList;
