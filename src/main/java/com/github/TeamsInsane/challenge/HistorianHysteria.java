@@ -42,19 +42,19 @@ public class HistorianHysteria implements AdventDay {
     public void solvePart2() {
         setListData();
 
-        int differenceResult = 0;
+        int differenceOfList = 0;
         for (int firstValue : leftSideList) {
-            int count = 0;
+            int numberRepeatCount = 0;
             for (int secondValue : rightSideList) {
                 if (firstValue == secondValue) {
-                    count++;
+                    numberRepeatCount++;
                 }
             }
 
-            differenceResult += firstValue * count;
+            differenceOfList += firstValue * numberRepeatCount;
         }
 
-        System.out.printf("Day 1 part 2 solution: " + differenceResult);
+        System.out.printf("Day 1 part 2 solution: " + differenceOfList);
     }
 
     @Override
