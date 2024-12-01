@@ -1,9 +1,9 @@
-package com.github.frcsty.util;
+package com.github.TeamsInsane.util;
 
-import com.github.frcsty.AdventOfCode;
-import com.github.frcsty.annotation.PartLoader;
-import com.github.frcsty.entity.MethodHolder;
-import com.github.frcsty.interfaces.AdventDay;
+import com.github.TeamsInsane.AdventOfCode;
+import com.github.TeamsInsane.annotation.PartLoader;
+import com.github.TeamsInsane.entity.MethodHolder;
+import com.github.TeamsInsane.interfaces.AdventDay;
 import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.Comparator;

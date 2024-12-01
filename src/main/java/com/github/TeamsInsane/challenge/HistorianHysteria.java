@@ -1,7 +1,7 @@
-package com.github.frcsty.challenge;
+package com.github.TeamsInsane.challenge;
 
-import com.github.frcsty.annotation.PartLoader;
-import com.github.frcsty.interfaces.AdventDay;
+import com.github.TeamsInsane.annotation.PartLoader;
+import com.github.TeamsInsane.interfaces.AdventDay;
 
 public class HistorianHysteria implements AdventDay {
 
