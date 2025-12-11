@@ -9,7 +9,7 @@ public class AdventOfCode {
 
     private static final Calendar CALENDAR = Calendar.getInstance();
     //private static final int CURRENT_DAY = CALENDAR.get(Calendar.DAY_OF_MONTH);
-    private static final int CURRENT_DAY = 1;
+    private static final int CURRENT_DAY = 2;
 
     public static void main(String[] args) {
         final AdventDay currentDay = ReflectionUtil.getDayOf(CURRENT_DAY);
